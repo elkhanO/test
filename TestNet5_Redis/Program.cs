@@ -19,7 +19,6 @@ namespace TestNet5_Redis
         // SpinLock spinLock = new SpinLock();
 
         //  public bool _lockSpin;
-
         public int Balance { get; set; }
 
         public void Deposit(int amount)
@@ -190,12 +189,7 @@ namespace TestNet5_Redis
             }
 
 
-
             //Console.WriteLine(sum);
-
-
-
-
 
             //var a = new Action(() => Console.WriteLine($"a - {Task.CurrentId} - {Thread.CurrentThread.ManagedThreadId}"));
             //var b = new Action(() => Console.WriteLine($"b - {Task.CurrentId} - {Thread.CurrentThread.ManagedThreadId}"));

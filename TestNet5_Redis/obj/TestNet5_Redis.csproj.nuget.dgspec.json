@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e.m.orujlu\\source\\repos\\TestNet5_Redis\\TestNet5_Redis\\TestNet5_Redis.csproj": {}
+    "C:\\Users\\e.m.orujlu\\source\\repos\\Test\\TestNet5_Redis\\TestNet5_Redis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e.m.orujlu\\source\\repos\\TestNet5_Redis\\TestNet5_Redis\\TestNet5_Redis.csproj": {
+    "C:\\Users\\e.m.orujlu\\source\\repos\\Test\\TestNet5_Redis\\TestNet5_Redis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e.m.orujlu\\source\\repos\\TestNet5_Redis\\TestNet5_Redis\\TestNet5_Redis.csproj",
+        "projectUniqueName": "C:\\Users\\e.m.orujlu\\source\\repos\\Test\\TestNet5_Redis\\TestNet5_Redis.csproj",
         "projectName": "TestNet5_Redis",
-        "projectPath": "C:\\Users\\e.m.orujlu\\source\\repos\\TestNet5_Redis\\TestNet5_Redis\\TestNet5_Redis.csproj",
+        "projectPath": "C:\\Users\\e.m.orujlu\\source\\repos\\Test\\TestNet5_Redis\\TestNet5_Redis.csproj",
         "packagesPath": "C:\\Users\\e.m.orujlu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e.m.orujlu\\source\\repos\\TestNet5_Redis\\TestNet5_Redis\\obj\\",
+        "outputPath": "C:\\Users\\e.m.orujlu\\source\\repos\\Test\\TestNet5_Redis\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
