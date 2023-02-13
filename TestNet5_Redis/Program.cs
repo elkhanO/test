@@ -210,9 +210,7 @@ namespace TestNet5_Redis
             //};
 
             //Parallel.ForEach(Range(1, 20, 3), Console.WriteLine);
-
-
-
+            //test
             //Console.WriteLine("d");
 
             //try
